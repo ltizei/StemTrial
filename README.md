@@ -1,2 +1,2 @@
 # StemTrial
-A stem trial
+A stem trial. If only we could do more.
